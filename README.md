@@ -1,6 +1,7 @@
 # Algorithmic Bias Audit — COMPAS Recidivism Risk Model
 
-A research-style fairness audit of a recidivism-risk classifier using the ProPublica COMPAS two-year recidivism dataset. This project studies how a model can appear reasonably accurate overall while producing unequal subgroup error rates, and compares mitigation strategies that trade off predictive performance, interpretability, and fairness.
+1. A research-style fairness audit of a recidivism-risk classifier using the ProPublica COMPAS two-year recidivism dataset. This project studies how a model can appear reasonably accurate overall while producing unequal subgroup error rates, and compares mitigation strategies that trade off predictive performance, interpretability, and fairness.
+2. An exploratory machine-learning fairness project comparing training and postprocessing methods for auditing bias in a COMPAS recidivism-risk classifier.
 
 **Research focus:** algorithmic bias, subgroup error analysis, fairness metrics, and mitigation in a high-stakes criminal-justice setting.  
 **Presented at:** San Francisco Bay University, Summer 2026, as part of an AI and machine-learning research project presentation.
